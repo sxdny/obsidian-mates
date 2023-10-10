@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b016dae55df4f4da",
+            "id": "866f398c8a1174ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Temas/Álgebra/Conjuntos/Conjuntos.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Temas/Aritmética/Números racionales.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "62a5cf24ec27b327",
@@ -42,13 +41,36 @@
             "id": "19d42326455fd828",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temas/Álgebra/Conjuntos/Conjuntos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bad4167942f35f2d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "latexsheet-a4.pdf"
+              }
+            }
+          },
+          {
+            "id": "204c506234a121c1",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
                 "file": "Books/Matemáticas Simplificadas.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Temas/Álgebra/Conjuntos/Conjuntos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Temas/Álgebra/Conjuntos/Conjuntos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Temas/Álgebra/Conjuntos/Conjuntos.md"
               }
             }
           }
@@ -175,12 +197,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a3f2750b153214d",
+  "active": "866f398c8a1174ac",
   "lastOpenFiles": [
-    "Index.md",
-    "README.md",
+    "Temas/Álgebra/Conjuntos/Conjunto vacío o nulo.md",
+    "Temas/Álgebra/Conjuntos/Cardinalidad infinita..md",
+    "Temas/Álgebra/Conjuntos/Cardinalidad finita.md",
     "Books/Matemáticas Simplificadas.pdf",
-    "Books/Matemáticas simplificadas.pdf",
-    "Books"
+    "latexsheet-a4.pdf",
+    "Temas/Álgebra/Conjuntos/Conjuntos.md",
+    "README.md",
+    "Temas/Álgebra/Conjuntos/Forma enumerativa o por extensión.md",
+    "Temas/Álgebra/Conjuntos/Forma descriptiva o por comprensión.md",
+    "Temas/Álgebra/Conjuntos",
+    "Temas/Aritmética/Números racionales.md",
+    "Temas/Aritmética",
+    "Comidas para mejorar el cerebro_230816_195701.pdf",
+    "Obsidian/Estudio/Tecnologia/Blockchain/images/cicloTransacciones.jpg",
+    "Obsidian/Estudio/Estudio.md",
+    "Obsidian/Estudio/Tecnologia/Blockchain/images/~syncthing~cicloTransacciones.jpg.tmp",
+    "Obsidian/Estudio/~syncthing~Estudio.md.tmp",
+    "Obsidian/Estudio/Música/Musica.md",
+    "Obsidian/Estudio/Música/~syncthing~Musica.md.tmp",
+    "Obsidian/Estudio/Aprender mejor.md",
+    "Obsidian/Estudio/~syncthing~Aprender mejor.md.tmp",
+    "Obsidian/Estudio/Tecnologia/Tecnologia.md",
+    "Obsidian/Estudio/Negocios/Sistemas de negocios/Sistemas de negocios.md",
+    "Obsidian/Estudio/Tecnologia/~syncthing~Tecnologia.md.tmp",
+    "Obsidian/Estudio/Fashion/Marcas/Palm Angels.md",
+    "Obsidian/Estudio/Chess/Aperturas/Sicilian Defense.md",
+    "Obsidian/Estudio/Negocios/EmpresaSMS.md",
+    "Obsidian/Estudio/Fashion/Marcas/Vetements.md",
+    "Obsidian/Estudio/Música/Teoria/Teoria Musical.md",
+    "Obsidian/Estudio/Fashion/Marcas/Needles.md",
+    "Obsidian/Estudio/Fashion/Marcas/Stone Island.md",
+    "Obsidian/Estudio/Tecnologia/Blockchain/images/blockchainFigures.jpg",
+    "Obsidian/Estudio/Aprendizaje/Aprendizaje.md",
+    "Obsidian/Estudio/Música/TO-BUY THINGS/Lista essentials.md",
+    "Obsidian/Estudio/Fashion/images/Untitled 3.png",
+    "Obsidian/Business/Marca de ropa.md",
+    "Obsidian/Estudio/Fashion/Marcas/Kapital.md",
+    "Obsidian/Estudio/Negocios/Negocios.md",
+    "Obsidian/Estudio/Fashion/images/Untitled 11.png",
+    "Obsidian/Estudio/Tecnologia/Blockchain/images/transaccionesFiguras.jpg",
+    "Obsidian/Estudio/Fashion/images/(N)ine_triptych2.jpg",
+    "Obsidian/Estudio/Fashion/images/Untitled 5.png",
+    "Obsidian/Estudio/Fashion/images/Miyashita.jpg",
+    "Obsidian/Estudio/Fashion/images/Untitled 6.png",
+    "Obsidian/Estudio/Fashion/images/Untitled 9.png"
   ]
 }
