@@ -30,8 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "204c506234a121c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temas/Álgebra/Conceptos básicos de Álgebra/Conceptos básicos de Álgebra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e815ebebe7ca6fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temas/Álgebra/Conjuntos/Conjuntos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "62a5cf24ec27b327",
@@ -60,7 +85,7 @@
             }
           },
           {
-            "id": "204c506234a121c1",
+            "id": "3a3038accb2afe2d",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -120,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a44f06c0a780ef26",
@@ -197,19 +222,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "866f398c8a1174ac",
+  "active": "0e815ebebe7ca6fd",
   "lastOpenFiles": [
+    "README.md",
+    "Temas/Álgebra/Conceptos básicos de Álgebra/Monomios y polinomios.md",
+    "Temas/Álgebra/Conceptos básicos de Álgebra/Conceptos básicos de Álgebra.md",
+    "Temas/Álgebra/Conceptos básicos de Álgebra/Expresión algebráica.md",
+    "Temas/Aritmética/Números racionales.md",
+    "Temas/Álgebra/Conceptos básicos de Álgebra/Lenguaje algebráico.md",
+    "Polinomios.md",
+    "Books/Matemáticas Simplificadas.pdf",
+    "latexsheet-a4.pdf",
+    "Temas/Álgebra/Conceptos básicos de Álgebra",
+    "Temas/Álgebra/Conjuntos/Conjuntos.md",
     "Temas/Álgebra/Conjuntos/Conjunto vacío o nulo.md",
     "Temas/Álgebra/Conjuntos/Cardinalidad infinita..md",
     "Temas/Álgebra/Conjuntos/Cardinalidad finita.md",
-    "Books/Matemáticas Simplificadas.pdf",
-    "latexsheet-a4.pdf",
-    "Temas/Álgebra/Conjuntos/Conjuntos.md",
-    "README.md",
     "Temas/Álgebra/Conjuntos/Forma enumerativa o por extensión.md",
     "Temas/Álgebra/Conjuntos/Forma descriptiva o por comprensión.md",
     "Temas/Álgebra/Conjuntos",
-    "Temas/Aritmética/Números racionales.md",
     "Temas/Aritmética",
     "Comidas para mejorar el cerebro_230816_195701.pdf",
     "Obsidian/Estudio/Tecnologia/Blockchain/images/cicloTransacciones.jpg",
@@ -222,7 +253,6 @@
     "Obsidian/Estudio/~syncthing~Aprender mejor.md.tmp",
     "Obsidian/Estudio/Tecnologia/Tecnologia.md",
     "Obsidian/Estudio/Negocios/Sistemas de negocios/Sistemas de negocios.md",
-    "Obsidian/Estudio/Tecnologia/~syncthing~Tecnologia.md.tmp",
     "Obsidian/Estudio/Fashion/Marcas/Palm Angels.md",
     "Obsidian/Estudio/Chess/Aperturas/Sicilian Defense.md",
     "Obsidian/Estudio/Negocios/EmpresaSMS.md",
@@ -232,11 +262,7 @@
     "Obsidian/Estudio/Fashion/Marcas/Stone Island.md",
     "Obsidian/Estudio/Tecnologia/Blockchain/images/blockchainFigures.jpg",
     "Obsidian/Estudio/Aprendizaje/Aprendizaje.md",
-    "Obsidian/Estudio/Música/TO-BUY THINGS/Lista essentials.md",
     "Obsidian/Estudio/Fashion/images/Untitled 3.png",
-    "Obsidian/Business/Marca de ropa.md",
-    "Obsidian/Estudio/Fashion/Marcas/Kapital.md",
-    "Obsidian/Estudio/Negocios/Negocios.md",
     "Obsidian/Estudio/Fashion/images/Untitled 11.png",
     "Obsidian/Estudio/Tecnologia/Blockchain/images/transaccionesFiguras.jpg",
     "Obsidian/Estudio/Fashion/images/(N)ine_triptych2.jpg",

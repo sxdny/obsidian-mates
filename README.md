@@ -1,8 +1,6 @@
 # Índice.
 ---
-En esta página incluiré todo los temas que tengo que estudiar y repasar para el examen de Matemáticas de la EBAU.
-
-Ya veré si pongo también los de física 🤞.
+En esta página incluiré todo los temas que tengo que estudiar y repasar para el examen de Matemáticas (o Física) de la EBAU.
 
 Para una mejor experiancia, es mejor usar [Obsidian](https://obsidian.md/)
 
@@ -27,4 +25,5 @@ Temas a estudiar (temas nuevos que no haya visto antes):
 
 - Álgebra:
 	1. [[Conjuntos]]
+	2. [[Conceptos básicos de Álgebra]].
 

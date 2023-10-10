@@ -1,0 +1,1 @@
+En la página 270-272 están todas las oraciones en lenguaje algebráico.
