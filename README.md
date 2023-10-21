@@ -1,17 +1,14 @@
 # Índice.
----
 En esta página incluiré todo los temas que tengo que estudiar y repasar para el examen de Matemáticas (o Física) de la EBAU.
 
 Para una mejor experiancia, es mejor usar [Obsidian](https://obsidian.md/)
 
 ## Sintáxis.
----
 Sintáxis de cosas que pueden ser muy útiles al escribir en $\TeX$:
 
 - `\textrm{}`. Para poner texto dentro del $\TeX$.
 
 ## Repaso
----
 Temas a repasar para los temas de más adelante:
 
 - Aritmética:
@@ -20,7 +17,6 @@ Temas a repasar para los temas de más adelante:
 	3. [[Teoría de números]]
 
 ## Temas.
----
 Temas a estudiar (temas nuevos que no haya visto antes):
 
 - Álgebra:
