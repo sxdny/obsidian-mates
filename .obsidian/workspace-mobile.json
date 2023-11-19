@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temas/Álgebra/Conjuntos.md",
+                "file": "Temas/Álgebra/Conjuntos/Conjuntos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Temas/Álgebra/Conjuntos.md",
+            "file": "Temas/Álgebra/Conjuntos/Conjuntos.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Temas/Álgebra/Conjuntos.md",
+            "file": "Temas/Álgebra/Conjuntos/Conjuntos.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Temas/Álgebra/Conjuntos.md"
+            "file": "Temas/Álgebra/Conjuntos/Conjuntos.md"
           }
         }
       }
@@ -131,10 +131,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62da4309530a4e6e",
+  "active": "de327e078390b3f5",
   "lastOpenFiles": [
+    "Inspo.pdf",
+    "Temas/Álgebra/Conceptos básicos de Álgebra/Expresión algebráica.md",
+    "Temas/Álgebra/Conceptos básicos de Álgebra/Conceptos básicos de Álgebra.md",
+    "Temas/Álgebra/Conceptos básicos de Álgebra/Monomios y polinomios.md",
+    "Temas/Álgebra/Conceptos básicos de Álgebra/Lenguaje algebráico.md",
+    "Temas/Álgebra/Conceptos básicos de Álgebra",
     "Temas/Aritmética/Números racionales.md",
+    "Temas/Álgebra/Conjuntos/Conjuntos.md",
+    "README.md",
+    "Books/Matemáticas Simplificadas.pdf",
+    "latexsheet-a4.pdf",
+    "Temas/Álgebra/Conjuntos/Conjunto vacío o nulo.md",
     "Temas/Álgebra/Conjuntos.md",
+    "Temas/Álgebra/Conjuntos/Cardinalidad infinita..md",
+    "Temas/Álgebra/Conjuntos/Forma enumerativa o por extensión.md",
+    "Temas/Álgebra/Conjuntos/Forma descriptiva o por comprensión.md",
+    "Temas/Álgebra/Conjuntos/Cardinalidad finita.md",
+    "Temas/Álgebra/Conjuntos",
     "Temas/Aritmética"
   ]
 }

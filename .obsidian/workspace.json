@@ -4,88 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9963368bef91272f",
+        "id": "bfa7f6f6671f75b8",
         "type": "tabs",
         "children": [
           {
-            "id": "866f398c8a1174ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temas/Álgebra/Conjuntos/Conjuntos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a3f2750b153214d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temas/Aritmética/Números racionales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "204c506234a121c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temas/Álgebra/Conceptos básicos de Álgebra/Conceptos básicos de Álgebra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e815ebebe7ca6fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temas/Álgebra/Conjuntos/Conjuntos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "62a5cf24ec27b327",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "19d42326455fd828",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temas/Álgebra/Conjuntos/Conjuntos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bad4167942f35f2d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "latexsheet-a4.pdf"
-              }
-            }
-          },
-          {
-            "id": "3a3038accb2afe2d",
+            "id": "728af6fdb04ceb2b",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -93,9 +16,20 @@
                 "file": "Books/Matemáticas Simplificadas.pdf"
               }
             }
+          },
+          {
+            "id": "514cecb29188be69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temas/Números reales/Mínimo Común Múltiplo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 269.5
   },
   "right": {
     "id": "a44f06c0a780ef26",
@@ -161,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temas/Álgebra/Conjuntos/Conjuntos.md",
+                "file": "Books/Matemáticas Simplificadas.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temas/Álgebra/Conjuntos/Conjuntos.md",
+                "file": "Books/Matemáticas Simplificadas.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,8 +135,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temas/Álgebra/Conjuntos/Conjuntos.md"
+                "file": "Books/Matemáticas Simplificadas.pdf"
               }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "d4e4767703c6ea17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b02ba19ea46fb12",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -219,56 +168,56 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e815ebebe7ca6fd",
+  "active": "728af6fdb04ceb2b",
   "lastOpenFiles": [
-    "README.md",
-    "Temas/Álgebra/Conceptos básicos de Álgebra/Monomios y polinomios.md",
-    "Temas/Álgebra/Conceptos básicos de Álgebra/Conceptos básicos de Álgebra.md",
-    "Temas/Álgebra/Conceptos básicos de Álgebra/Expresión algebráica.md",
-    "Temas/Aritmética/Números racionales.md",
-    "Temas/Álgebra/Conceptos básicos de Álgebra/Lenguaje algebráico.md",
-    "Polinomios.md",
+    "Temas/Números reales/Mínimo Común Múltiplo.md",
+    "Temas/Números reales/Máximo Común Divisor.md",
+    "Preparación Exámenes/T1-2.md",
     "Books/Matemáticas Simplificadas.pdf",
+    "images/Pasted image 20231030114006.png",
+    "Temas/Álgebra/Conceptos básicos de Álgebra/Conceptos básicos de Álgebra.md",
+    "Preparación Exámenes/Untitled",
+    "Preparación Exámenes",
     "latexsheet-a4.pdf",
-    "Temas/Álgebra/Conceptos básicos de Álgebra",
+    "actividad_1.jpg",
+    "SIN/actividad3.md",
+    "actividad_9.jpg",
+    "actividad_8.jpg",
+    "actividad_7.jpg",
+    "actividad_6.jpg",
+    "actividad_5.jpg",
+    "actividad_4.jpg",
+    "actividad_3.jpg",
+    "actividad_2.jpg",
+    "README.md",
+    "Temas/Álgebra/Conceptos básicos de Álgebra/Lenguaje algebráico.md",
     "Temas/Álgebra/Conjuntos/Conjuntos.md",
     "Temas/Álgebra/Conjuntos/Conjunto vacío o nulo.md",
-    "Temas/Álgebra/Conjuntos/Cardinalidad infinita..md",
     "Temas/Álgebra/Conjuntos/Cardinalidad finita.md",
+    "Temas/Álgebra/Conjuntos/Cardinalidad infinita..md",
+    "Temas/Álgebra/Conceptos básicos de Álgebra/Monomios y polinomios.md",
+    "Temas/Álgebra/Conceptos básicos de Álgebra/Expresión algebráica.md",
+    "Flashcards/Untitled.md",
+    "Flashcards",
+    "Temas/Aritmética/Números racionales.md",
+    "SIN/silva_brazdeoliveira_sidney_actividad2.md",
+    "Temas/Nociones básicas",
+    "Temas/Números reales",
+    "images",
+    "SIN",
+    "Inspo.pdf",
     "Temas/Álgebra/Conjuntos/Forma enumerativa o por extensión.md",
     "Temas/Álgebra/Conjuntos/Forma descriptiva o por comprensión.md",
-    "Temas/Álgebra/Conjuntos",
-    "Temas/Aritmética",
-    "Comidas para mejorar el cerebro_230816_195701.pdf",
-    "Obsidian/Estudio/Tecnologia/Blockchain/images/cicloTransacciones.jpg",
     "Obsidian/Estudio/Estudio.md",
-    "Obsidian/Estudio/Tecnologia/Blockchain/images/~syncthing~cicloTransacciones.jpg.tmp",
-    "Obsidian/Estudio/~syncthing~Estudio.md.tmp",
     "Obsidian/Estudio/Música/Musica.md",
-    "Obsidian/Estudio/Música/~syncthing~Musica.md.tmp",
     "Obsidian/Estudio/Aprender mejor.md",
-    "Obsidian/Estudio/~syncthing~Aprender mejor.md.tmp",
     "Obsidian/Estudio/Tecnologia/Tecnologia.md",
     "Obsidian/Estudio/Negocios/Sistemas de negocios/Sistemas de negocios.md",
     "Obsidian/Estudio/Fashion/Marcas/Palm Angels.md",
-    "Obsidian/Estudio/Chess/Aperturas/Sicilian Defense.md",
-    "Obsidian/Estudio/Negocios/EmpresaSMS.md",
-    "Obsidian/Estudio/Fashion/Marcas/Vetements.md",
-    "Obsidian/Estudio/Música/Teoria/Teoria Musical.md",
-    "Obsidian/Estudio/Fashion/Marcas/Needles.md",
-    "Obsidian/Estudio/Fashion/Marcas/Stone Island.md",
-    "Obsidian/Estudio/Tecnologia/Blockchain/images/blockchainFigures.jpg",
-    "Obsidian/Estudio/Aprendizaje/Aprendizaje.md",
-    "Obsidian/Estudio/Fashion/images/Untitled 3.png",
-    "Obsidian/Estudio/Fashion/images/Untitled 11.png",
-    "Obsidian/Estudio/Tecnologia/Blockchain/images/transaccionesFiguras.jpg",
-    "Obsidian/Estudio/Fashion/images/(N)ine_triptych2.jpg",
-    "Obsidian/Estudio/Fashion/images/Untitled 5.png",
-    "Obsidian/Estudio/Fashion/images/Miyashita.jpg",
-    "Obsidian/Estudio/Fashion/images/Untitled 6.png",
-    "Obsidian/Estudio/Fashion/images/Untitled 9.png"
+    "Obsidian/Estudio/Chess/Aperturas/Sicilian Defense.md"
   ]
 }

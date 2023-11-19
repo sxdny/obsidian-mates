@@ -23,6 +23,8 @@ Temas a repasar para los temas de más adelante:
 ---
 Temas a estudiar (temas nuevos que no haya visto antes):
 
+[[Matemáticas Simplificadas.pdf#page=1480|Matemáticas Simplificadas, Solución a los ejercicios de álgebra ]]
+
 - Álgebra:
 	1. [[Conjuntos]]
 	2. [[Conceptos básicos de Álgebra]].

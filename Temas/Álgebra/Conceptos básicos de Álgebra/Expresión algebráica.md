@@ -44,3 +44,4 @@ Esto se resolvería de la siguiente manera:
 $$
 \large 4^{4}\times 3^{2} \times \left( \frac{1}{2} \right)^{3}= 256 \times 9 \times 0,125 = 288
 $$
+

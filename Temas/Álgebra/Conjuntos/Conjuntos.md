@@ -34,7 +34,7 @@ Los conjuntos se pueden representar de dos formas:
 
 ## Cardinalidad
 ---
-Es en números de elementos que contiene un conjunto. Existen 3 tipos de conjuntos:
+Es el números de elementos que contiene un conjunto. Existen 3 tipos de conjuntos:
 
 - [[Cardinalidad finita]]. El conjunto tiene un límite.
 - [[Cardinalidad infinita.]] El límite del conjunto no está definido, porqué es demasiado grande o simplemente, no tiene límite.

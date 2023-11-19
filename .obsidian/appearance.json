@@ -1,7 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Minimal",
+  "cssTheme": "Flexoki",
   "theme": "obsidian",
-  "baseFontSize": 18,
-  "showViewHeader": true
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "textFontFamily": "Helvetica Now Text"
 }
